@@ -42,7 +42,7 @@ using namespace std ;
 
 	// menu of buildings 
 	cout << "\n Select From The Menu Below: " << endl; 
-	cout << "  [01] Start Listening " << endl; 
+	cout << "  [01] Start Listening or (nc -lvp [PORT])" << endl; 
 	cout << "  [02] Payloads Generation " << endl; 
 	cout << "  [03] Killer Configuration " << endl << endl;  
         cout << "  [99] Exit." << endl; 
