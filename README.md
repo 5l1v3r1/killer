@@ -6,7 +6,7 @@ Video: https://youtu.be/RBBvjihK5AI \
 Screen:
 <img src="https://i.imgur.com/vN2IyLs.png">
 # Small Explaining:
-Killer is a tool has created in order to help attackers in more of systems pawning specialy it has a simple backdoors 
+Killer is a tool has created in order to help attackers in more of systems pawning specialy it has a simple backdoors <br />
 and clean algorimths. 
 * attacker could be use this to pawn multi-systems ( Unix-Like / Windows-Like ) shell [remote command execution]
 * attacker could upgrade the pawned session with some bash/bach commands only  
@@ -15,7 +15,7 @@ and clean algorimths.
 * gcc/g++ Mingw Compiler 
 
 # Install instructions:
-sudo bash build.sh \ 
+sudo bash build.sh <br/> 
 run enternig "killer" in ur command line 
 # Uninstall instructions:
 sudo bash uninstall000.sh
