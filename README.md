@@ -15,7 +15,7 @@ and clean algorimths.
 * gcc/g++ Mingw Compiler 
 
 # Install instructions:
-sudo bash build.sh 
+sudo bash build.sh\ 
 run enternig "killer" in ur command line 
 # Uninstall instructions:
 sudo bash uninstall000.sh
