@@ -4,7 +4,7 @@ Killer Shell Trojan Builder [Shell Pawner] V 1.1 r 0
 Author: ABDO10 - defacerdz@gmail.com\
 Video: https://youtu.be/RBBvjihK5AI \
 Screen:
-<img src="https://i.imgur.com/a6n1Fuw.png">
+<img src="https://i.imgur.com/SKqZAmo.png">
 # Small Explaining:
 Killer is a tool has created in order to help attackers in more of systems pawning specialy it has a simple backdoors 
 and clean algorimths. 
