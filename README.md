@@ -1,6 +1,7 @@
 # killer
 Killer Shell Trojan Builder [Shell Pawner] V 1.1 r 0
 # Introduction:
+Author: ABDO10 - defacerdz@gmail.com
 Video: https://youtu.be/RBBvjihK5AI 
 Screen:
 <img src="https://i.imgur.com/a6n1Fuw.png">
