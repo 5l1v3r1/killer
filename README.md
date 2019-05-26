@@ -1,5 +1,5 @@
 # killer
-Killer Trojan Builder V 1.1 r 0
+Killer Trojan Builder [Shell Pawner] V 1.1 r 0
 # Coming Soon ...
 Video: https://youtu.be/RBBvjihK5AI 
 Screen:
