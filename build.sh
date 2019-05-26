@@ -1,7 +1,7 @@
 #!/bin/bash 
 
 #root checking 
-[[ `id -u` -eq 0 ]] > /dev/null 2>&1 || { echo -e '\e[1;31m [-] No Root Checked ,Please U Need To Be root '; exit 1; }
+[[ `id -u` -eq 0 ]] > /dev/null 2>&1 || { echo -e '\e[1;31m [-] This Tool requires root privilege '; exit 1; }
 
 echo ' [*] Installing Killer... '
 # General Install 
@@ -20,7 +20,7 @@ cp uninstall000.sh /usr/share/killer
 cp killer /usr/share/killer 
 
 echo "#!/bin/bash" >> /usr/bin/killer
-echo "[[ `id -u` -eq 0 ]] > /dev/null 2>&1 || { echo -e '\e[1;31m [-] No Root Checked ,Please U Need To Be root '; exit 1; }" >> /usr/bin/killer
+echo "[[ `id -u` -eq 0 ]] > /dev/null 2>&1 || { echo -e '\e[1;31m [-] This Tool requires root privilege '; exit 1; }" >> /usr/bin/killer
 echo "cd /usr/share/killer" >> /usr/bin/killer
 echo "./killer" >> /usr/bin/killer
 chmod 777 /usr/bin/killer
