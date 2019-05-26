@@ -1,5 +1,5 @@
 # killer
-Killer Shell Trojan Builder [Shell Pawner] V 1.1 r 0
+Killer Shell Trojan Builder [Shell Grabber] V 1.1 r 0
 # Introduction:
 Author: ABDO10 - defacerdz@gmail.com\
 Video: https://youtu.be/RBBvjihK5AI \
